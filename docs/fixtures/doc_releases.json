@@ -1,0 +1,29 @@
+[
+{
+  "model": "docs.documentrelease",
+  "pk": 1,
+  "fields": {
+    "lang": "en",
+    "release": null,
+    "is_default": false
+  }
+},
+{
+  "model": "docs.documentrelease",
+  "pk": 37,
+  "fields": {
+    "lang": "fr",
+    "release": "4.2",
+    "is_default": false
+  }
+},
+{
+  "model": "docs.documentrelease",
+  "pk": 38,
+  "fields": {
+    "lang": "en",
+    "release": "4.2",
+    "is_default": true
+  }
+}
+]

@@ -1,0 +1,3 @@
+-r common.txt
+pre-commit~=2.20.0
+watchdog==2.1.6
